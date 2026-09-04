@@ -2,3 +2,4 @@ Hello Git!
 I am learning version control.
 This is my git learning project.
 This line was added through GitHub.
+\nI am learning Git branches
